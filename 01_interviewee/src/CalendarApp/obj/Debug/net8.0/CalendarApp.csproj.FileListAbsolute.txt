@@ -1,0 +1,11 @@
+C:\Users\darko\OneDrive\Desktop\01_interviewee\src\CalendarApp\bin\Debug\net8.0\CalendarApp.deps.json
+C:\Users\darko\OneDrive\Desktop\01_interviewee\src\CalendarApp\bin\Debug\net8.0\CalendarApp.dll
+C:\Users\darko\OneDrive\Desktop\01_interviewee\src\CalendarApp\bin\Debug\net8.0\CalendarApp.pdb
+C:\Users\darko\OneDrive\Desktop\01_interviewee\src\CalendarApp\obj\Debug\net8.0\CalendarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darko\OneDrive\Desktop\01_interviewee\src\CalendarApp\obj\Debug\net8.0\CalendarApp.AssemblyInfoInputs.cache
+C:\Users\darko\OneDrive\Desktop\01_interviewee\src\CalendarApp\obj\Debug\net8.0\CalendarApp.AssemblyInfo.cs
+C:\Users\darko\OneDrive\Desktop\01_interviewee\src\CalendarApp\obj\Debug\net8.0\CalendarApp.csproj.CoreCompileInputs.cache
+C:\Users\darko\OneDrive\Desktop\01_interviewee\src\CalendarApp\obj\Debug\net8.0\CalendarApp.dll
+C:\Users\darko\OneDrive\Desktop\01_interviewee\src\CalendarApp\obj\Debug\net8.0\refint\CalendarApp.dll
+C:\Users\darko\OneDrive\Desktop\01_interviewee\src\CalendarApp\obj\Debug\net8.0\CalendarApp.pdb
+C:\Users\darko\OneDrive\Desktop\01_interviewee\src\CalendarApp\obj\Debug\net8.0\ref\CalendarApp.dll
